@@ -1,0 +1,1 @@
+**Create a virtual network in azure**
