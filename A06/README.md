@@ -1,0 +1,1 @@
+**Create Network Security Group and rule in azure**
