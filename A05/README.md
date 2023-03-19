@@ -1,0 +1,1 @@
+**Create public IPs in azure**
