@@ -1,0 +1,1 @@
+**# Create network interface in azure**
