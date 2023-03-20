@@ -1,0 +1,1 @@
+**Connect the security group to the network interface in azure**
