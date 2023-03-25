@@ -1,0 +1,1 @@
+**Generate random text for a unique storage account name in azure**
