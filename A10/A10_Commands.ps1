@@ -1,3 +1,6 @@
+#Validate the configuration file
+terraform validate
+
 #Create a Terraform execution plan
 terraform plan -out main.tfplan
 
