@@ -1,6 +1,8 @@
 # A list with various interesting links
 
 **Terraform Installation**  
+https://developer.hashicorp.com/terraform/downloads
+
 <https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli>
 
 **Terraform and Azure Resources**
