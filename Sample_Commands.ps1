@@ -15,7 +15,7 @@ $GitBasePath = 'D:\GitHub\Introduction_of_Terraform_in_Azure'
 
 #Terraform Demo
 #Install from https://www.terraform.io/downloads.html and added to user path
-#Azure CLI installed and logged in via az login
+#Azure CLI installed and logged in via az login (Device Code)
 
 Set-Location $GitBasePath\IntroBasicDeclarative
 
