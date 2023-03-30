@@ -53,6 +53,8 @@ terraform init
 terraform plan
 terraform apply
 
+#Change the state file to remote
+terraform init -backend-config=backend-config.txt
 
 #To delete the resources
 terraform plan -destroy -out='planout'   #Is there a file type to use? .tfplan??
