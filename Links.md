@@ -10,6 +10,8 @@ https://developer.hashicorp.com/terraform/downloads
 
 **Terraform and Azure Resources**
 
+https://registry.terraform.io/browse/providers
+
 https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/resource_group
 
 https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/virtual_network
