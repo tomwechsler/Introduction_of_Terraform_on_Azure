@@ -5,3 +5,7 @@ resource "azurerm_resource_group" "twrg" {
   tags = local.tags
 
 }
+
+## azurerm_virtual_network
+
+## azurerm_subnet
