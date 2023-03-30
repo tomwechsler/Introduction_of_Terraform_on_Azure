@@ -63,5 +63,5 @@ terraform apply 'planout'
 terraform destroy
 
 
-#Environment Variables to set the SAS Token
+#PowerShell environment variables to set the SAS Token
 $Env:TF_VAR_ARM_SAS_TOKEN = ""
