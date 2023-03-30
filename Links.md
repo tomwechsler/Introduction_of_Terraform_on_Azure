@@ -1,5 +1,8 @@
 # A list with various interesting links
 
+**Azure CLI**  
+https://learn.microsoft.com/en-us/cli/azure/install-azure-cli
+
 **Terraform Installation**  
 https://developer.hashicorp.com/terraform/downloads
 
