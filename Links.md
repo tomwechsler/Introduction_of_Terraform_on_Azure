@@ -14,6 +14,10 @@ https://registry.terraform.io/browse/providers
 
 https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/resource_group
 
+https://developer.hashicorp.com/terraform/language/values/variables
+
+https://developer.hashicorp.com/terraform/language/values/locals
+
 https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/virtual_network
 
 https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/subnet
