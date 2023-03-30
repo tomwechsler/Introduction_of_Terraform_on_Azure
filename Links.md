@@ -1,5 +1,8 @@
 # A list with various interesting links
 
+**Azure CLI**  
+https://learn.microsoft.com/en-us/cli/azure/install-azure-cli
+
 **Terraform Installation**  
 https://developer.hashicorp.com/terraform/downloads
 
@@ -7,7 +10,13 @@ https://developer.hashicorp.com/terraform/downloads
 
 **Terraform and Azure Resources**
 
+https://registry.terraform.io/browse/providers
+
 https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/resource_group
+
+https://developer.hashicorp.com/terraform/language/values/variables
+
+https://developer.hashicorp.com/terraform/language/values/locals
 
 https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/virtual_network
 
