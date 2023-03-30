@@ -61,3 +61,7 @@ terraform plan -destroy -out='planout'   #Is there a file type to use? .tfplan??
 terraform apply 'planout'
 #or
 terraform destroy
+
+
+#Environment Variables to set the SAS Token
+$Env:TF_VAR_ARM_SAS_TOKEN = ""
