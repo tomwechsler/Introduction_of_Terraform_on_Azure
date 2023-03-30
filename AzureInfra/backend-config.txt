@@ -1,0 +1,4 @@
+storage_account_name = "twprojectsta"
+containername = "terraform"
+key = "terraform.state"
+sas_token = ?sv=2021-12-02&ss=b&srt=c&sp=rwdlaciytfx&se=2024-02-29T23:41:45Z&st=2023-03-30T14:41:45Z&spr=https&sig=BVooKr8nimabdULEKMs%2B3nxQj8OxQoDsFVSbe1svRgc%3D
