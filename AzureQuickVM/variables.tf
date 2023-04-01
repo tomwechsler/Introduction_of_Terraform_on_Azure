@@ -35,6 +35,6 @@ variable "network_nic_name" {
 
 variable "prefix" {
   type        = string
-  default     = "win-vm-iis"
+  default     = "win-iis"
   description = "Prefix of the resource name"
 }
