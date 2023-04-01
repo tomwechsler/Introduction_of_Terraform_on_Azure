@@ -33,3 +33,5 @@ https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/
 https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/network_interface
 
 https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/windows_virtual_machine
+
+https://developer.hashicorp.com/terraform/cli/commands/destroy
