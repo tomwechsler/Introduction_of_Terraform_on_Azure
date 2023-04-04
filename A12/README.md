@@ -1,0 +1,1 @@
+**Create virtual machine in Azure**
