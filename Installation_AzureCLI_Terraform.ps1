@@ -10,7 +10,8 @@ choco install -y terraform
 #PowerShell Core
 winget install --id Microsoft.Powershell --source winget
 
-
+#Visual Studio Code
+winget install -e --id Microsoft.VisualStudioCode
 
 az config set core.allow_broker=true
 az account clear
