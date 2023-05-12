@@ -1,0 +1,1 @@
+$env:TF_VAR_ARM_SAS_TOKEN = ""
