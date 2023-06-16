@@ -19,3 +19,8 @@ variable "virtual_subnet_name" {
   default     = "twprodsubnet"
   description = "Name of the virtual subnet"
 }
+
+variable "public_ip_name" {
+  default     = "twpipvm2023"
+  description = "Name of the pip"
+}
