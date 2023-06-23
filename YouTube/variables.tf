@@ -24,3 +24,8 @@ variable "public_ip_name" {
   default     = "twpipvm2023"
   description = "Name of the pip"
 }
+
+variable "network_security_group_name" {
+  default     = "twprodnsg"
+  description = "Name of the NSG."
+}
